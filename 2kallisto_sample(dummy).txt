@@ -1,0 +1,1 @@
+entity:sample_id	participant_id	TCGAFASTQpatient1_sample	patient1	gs://path.for.tar.gz.filepatient2_sample	patient2	gs://path.for.tar.gz.filepatient3_sample	patient3	gs://path.for.tar.gz.filepatient4_sample	patient4	gs://path.for.tar.gz.filepatient5_sample	patient5	gs://path.for.tar.gz.file
