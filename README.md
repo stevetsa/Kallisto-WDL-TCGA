@@ -11,7 +11,7 @@ This tutorial assumes basic knowledge of WDL.  Refer to "Related Resources" on t
 3) Modify the TCGAFASTQ column in 2kallisto_sample.txt to reflect the Google bucket associate with the TCGA FASTQ files (gs://....)
    Rename to remove "(dummy)" in file name.
 4) Under "Data" tab, click on "Import Data" and upload kallisto_participants.txt, kallisto_samples.txt, kallisto_sample_set.txt and kallisto_sample_set_membership.txt in that order.
-5) Under "Method Configuration", click on "Import Configuration.." and upload the kallisto_cfg.wdl file
+5) Under "Method Configuration", click on "Import Configuration.." and upload the kallisto_tcga_simple.wdl file
 6) Run the analysis with "samples" and define "this.samples" at runtime.
 
 Other Related Resources
