@@ -1,5 +1,6 @@
 # Kallisto-WDL-TCGA
-This repo contains FireCloud TSVs and WDL for running fastq.tar.gz in FireCloud TCGA buckets. A related tutorial available here - https://github.com/stevetsa/Kallisto-WDL 
+This repo contains FireCloud TSVs and WDL for running fastq.tar.gz in FireCloud TCGA buckets in batch mode. 
+<br>A related tutorial available here - https://github.com/stevetsa/Kallisto-WDL 
 
 <br>Nature Biotechnology 34, 525–527 (2016), doi:10.1038/nbt.3519
 <br>https://hub.docker.com/r/stevetsa/docker-kallisto/
